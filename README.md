@@ -8,4 +8,6 @@ Depth first search using Stack
 Breadth first search using Queue
 - Graphs and Adjacency Matrix
 
-Uniform Cost Search
+Uniform Cost Search using Priority Queue
+
+Greedy Search using Priority Queue
