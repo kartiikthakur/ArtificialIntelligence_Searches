@@ -11,3 +11,5 @@ Breadth first search using Queue
 Uniform Cost Search using Priority Queue
 
 Greedy Search using Priority Queue
+
+A Star Search using Priority Queue
